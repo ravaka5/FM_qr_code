@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Outfit;
+}
+
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+
+
+/* body part */
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.card
+{
+    width: fit-content;
+    padding: 18px;
+    border-radius: 18px;
+    background-color: white;
+    padding-bottom: 40px;
+    box-shadow: 1px 1px 1px 1px hsl(212, 45%, 89%);
+}
+
+.heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: white;
+    color: hsl(218, 44%, 22%);
+}
+
+.text{
+    margin-top: 15px;
+    font-size: 15px;
+    text-align: center;
+    background-color: white;
+    color: hsl(216, 15%, 48%);
+}
+
+.text p{
+    background-color: white;
+}
+.qr p
+{
+    font-weight: 400;
+    background-color: white;
+}
+img{
+    width: 250px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+
+/* footer part */
+
+.attribution 
+{ 
+    font-size: 11px; 
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom:0; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

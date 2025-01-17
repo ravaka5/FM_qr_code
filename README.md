@@ -19,7 +19,7 @@ This is a html css for the first challenge in frontend Mentor
 
 ### Screenshot
 
-![screen](../screenshot.png)
+![screen](./screenshot.png)
 
 ### Links
 
