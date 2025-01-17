@@ -23,7 +23,7 @@ This is a html css for the first challenge in frontend Mentor
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [site url](https://fm-qr-code-rama.netlify.app/)
 
 ## My process
 
